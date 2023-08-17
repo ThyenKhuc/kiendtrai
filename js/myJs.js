@@ -9,7 +9,7 @@ const textConfig = {
   text8: "Gửi cho tớ <3",
   text9: "Vì a kien dtrau vlllll",
   text10: "Tớ biết thừa mà:))))))",
-  text11: " giờ thì chờ gì nữa mà ko inbox cho chúng tớ đi nàooo",
+  text11: " giờ thì chờ gì nữa mà ko inbox cho chúng tớ đi nàooo (page trường)",
   text12: "okee",
 };
 
@@ -137,7 +137,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/Thyen.Khuc.545/";
+            window.location = "https://www.facebook.com/thptnguyenvancuinhanoi";
           },
         });
       }
